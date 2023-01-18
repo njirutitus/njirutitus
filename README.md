@@ -4,3 +4,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: :email: :iphone: :phone: :telephone_receiver: :fax: :mega: :mailbox:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=njirutitus&count_private=true&show_icons=true" />
+[![Titus's GitHub stats](https://github-readme-stats.vercel.app/api?username=njirutitus)](https://github.com/njirutitus/github-readme-stats)
